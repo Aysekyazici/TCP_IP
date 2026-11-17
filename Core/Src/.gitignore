@@ -1,0 +1,22 @@
+# Build files
+build/
+cmake-build-*/
+Debug/
+Release/
+
+# Object and binary files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
